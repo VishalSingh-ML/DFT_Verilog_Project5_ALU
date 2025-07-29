@@ -24,7 +24,7 @@ DFT_Verilog_Project5_ALU/
 
 ## 📊 Simulation Output
 
-![ALU GTKWave Screenshot](./Waveform/GTK.PNG)
+https://github.com/VishalSingh-ML/DFT_Verilog_Project5_ALU/tree/main/waveform
 
 ## 💻 Tools Used
 - **Icarus Verilog** for compilation & simulation
